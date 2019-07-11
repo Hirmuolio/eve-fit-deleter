@@ -12,3 +12,8 @@ How to use:
 * Log in the characters for which you want to delete all fits.
 * Paste the code from URL bar after you log in and are redirected
 * Start the deletion process.
+
+
+## Requirements
+* Python 3
+* Requests https://2.python-requests.org//en/master/
