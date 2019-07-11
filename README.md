@@ -2,7 +2,7 @@
 
 This script will delete all saved personal fits from your character.
 
-This script is not maintained. If it stops working and you need it to work you can ask to get it fixed.
+This script is not maintained. If it stops working and you need it to work you can ask to get it fixed (or fix it and make a pull request. OR even better: Fork it and make a better version).
 
 There will be no confirmation questions. Once you start the process all your saved fits will be deleted.
 
