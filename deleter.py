@@ -4,6 +4,7 @@ import requests
 import json
 import webbrowser
 import base64
+import time
 
 #---------------------------
 #Define functions
@@ -197,6 +198,7 @@ def delete_fits():
 						print(n2+1,'of',number_of_fits)
 					else:
 						return
+					time.sleep(2)
 					
 			else:
 				return
