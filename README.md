@@ -16,4 +16,4 @@ How to use:
 
 ## Requirements
 * Python 3
-* Requests https://2.python-requests.org//en/master/
+* Requests https://requests.readthedocs.io/en/master/
