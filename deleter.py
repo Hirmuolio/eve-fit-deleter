@@ -13,7 +13,7 @@ import time
 def check_error(esi_response, job):
 	status_code = esi_response.status_code
 	
-	if status_code != 200 and status_code != 204:
+	if !status_code in [ 200, 204 ]:
 		#Error
 		print( "Got errors!")
 		print( esi_response, " ", esi_response.status_code, " " )
